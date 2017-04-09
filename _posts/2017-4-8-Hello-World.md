@@ -22,24 +22,23 @@ I got stuck trying to figure out the algorithm how to find the number of unqiue 
 ## Useful links to save for later:
 
 Rewatch Tedtalk videos from class:
-Josh Kaufman - Ted Talk
-The first 20 hours - “how to learn anything.”
+- Josh Kaufman The first 20 hours - “how to learn anything.”
 
-Graham Shaw
-"Why people believe they can’t draw
+- Graham Shaw "Why people believe they can’t draw
 And how to prove they can."
 
-Google - Deliberate practice
-       - Limiting beliefs
+Google search   
+- Deliberate practice  
+- Limiting beliefs  
 
-backblaze.com - backup service
-c9.io - backup service/online text editor
+- backblaze.com - backup service
+- c9.io - backup service/online text editor
 
-git-scm.com/downloads
+- git-scm.com/downloads
 
 ## My next goals:
 
-Continue to improve my coding fluency and get comfortable using command line to update blog for GitHub.
+Continue to work on improving my coding fluency and get comfortable using command line to update blog for GitHub.
 
 ## Today I learned:  Steps for making a blog post with git:
 
