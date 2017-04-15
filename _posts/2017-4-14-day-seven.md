@@ -41,18 +41,17 @@ How do I code this?
 
 - Trying to figure out formula:
 
-numPeople = x | uniquePairs = y
-------------- | ---------------
-x = 2 | y = 1
-x++ = 3    |    | y + 2 = 3
-x++ = 4    |    | y + 3 = 6
-x++ = 5    |    | y + 4 = 10
-x++ = 6    |    | y + 5 = 15
-x++ = 7    |    | y + 6 = 21
-x++ = 8    |    | y + 7 = 28
-x++ = 9    |    | y + 8 = 36
-x++ = 10   |    | y + 9 = 45
-
+| numPeople = x | uniquePairs = y |
+|---------------|-----------------|
+| x = 2         | y = 1           |
+| x++ = 3       | y + 2 = 3       |
+| x++ = 4       | y + 3 = 6       |
+| x++ = 5       | y + 4 = 10      |
+| x++ = 6       | y + 5 = 15      |
+| x++ = 7       | y + 6 = 21      |
+| x++ = 8       | y + 7 = 28      |
+| x++ = 9       | y + 8 = 36      |
+| x++ = 10      | y + 9 = 45      |
 
 
 ```javascript
@@ -93,6 +92,8 @@ null
 - Came across an article called [Coding Is An Art-Software People Should Learn "Art Thinking"](https://www.fastcompany.com/3019082/coding-is-an-art-software-people-should-learn-art-thinking)
 
 I haven't had a chance to go through it but it looks interesting.  Will get to it in the next couple days. 
+
+- As I was searching for a way to properly display tables using Markdown, I came across a [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables#) website.
 
 ## My next goals:
 
