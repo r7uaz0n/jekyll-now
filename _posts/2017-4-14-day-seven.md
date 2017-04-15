@@ -7,11 +7,11 @@ This is my sixth blog post made with Jekyll! Woohoo!
 
 ## Today I learned (#TIL):   
 
-- had some trouble updating my blogs.  I may have been titling them incorrectly as I went back to tidy things up.  Debugging Markdown is fine but rather be focusing on JavaScript.  :)
-- 
+- Had some trouble updating my blogs.  I may have been titling them incorrectly as I went back to tidy things up.  Debugging Markdown is fine but rather be focusing on JavaScript.  :)
+- I am putting off freeCodeCamp to work on Programming Challenge(s) 
 
 
-HW - Challenge 1:
+Homework
 
 > ***********   PROGRAMMING CHALLENGE 1:   *********** 
 >  Write a function that answers the question,
@@ -76,9 +76,8 @@ numPeople(8);
 null
 
 
-
-
 ## Questions:
+
 
 
 
@@ -87,14 +86,15 @@ null
 
 ## Useful links to save for later:
 
+Came across an article called [Coding Is An Art-Software People Should Learn "Art Thinking"](https://www.fastcompany.com/3019082/coding-is-an-art-software-people-should-learn-art-thinking)
+
+I haven't had a chance to go through it but it looks interesting.  Will get to it in the next couple days. 
 
 ## My next goals:
 
-- Solve HW1
 
 
-
-***Perseverance is key!***  
+#Perseverance is key!
 
 
 
