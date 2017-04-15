@@ -53,18 +53,10 @@ How do I code this?
 | x++ = 10        |     | y + 9 = 45        |
 
 
-```javascript
-function uniquePairs (numPeople){
-  numPeople = i;
-for (var i = 2; i<=numPeople; i++) 
-}
- 
-    return uniquePairs;
 
-console.log(numPeople);
 
-numPeople(8); 
-```
+
+
 
 
 > ***********   PROGRAMMING CHALLENGE 2:   ***********
@@ -78,7 +70,7 @@ numPeople(8);
 
 ## Questions:
 
-
+I can visualize the pattern as seen in table above.  How do come up with the formula?  
 
 
 ## Bugs discovered / what I got stuck on:
