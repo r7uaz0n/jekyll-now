@@ -11,8 +11,7 @@ This is my sixth blog post made with Jekyll! Woohoo!
 - I am putting off freeCodeCamp to work on Programming Challenge(s) 
 
 
-Homework
-
+## Homework
 > ***********   PROGRAMMING CHALLENGE 1:   *********** 
 >  Write a function that answers the question,
 >  "How many UNIQUE pairings would we have if everyone in our
@@ -22,7 +21,7 @@ Looking back at my notes:
 
 ![image_of_visualized_sketch](https://r7uaz0n.github.io/images/sketch1.jpg)
 
-- The chart below lists numPeople which represents the total number of people and uniquePairs is the unique pairs.  The pattern I see is that the difference in the uniquePairs is increased by 1 with every increase in numPeople. 
+> The chart below lists numPeople which represents the total number of people and uniquePairs is the unique pairs.  The pattern I see is that the difference in the uniquePairs is increased by 1 with every increase in numPeople. 
 How do I code this?
 
 
