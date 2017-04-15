@@ -9,7 +9,7 @@ This is my sixth blog post made with Jekyll! Woohoo!
 
 - Had some trouble updating my blogs.  I may have been titling them incorrectly as I went back to tidy things up.  Debugging Markdown is fine but rather be focusing on JavaScript.  :)
 - I am getting quicker using Git via Terminal to publish blogs.  Using up arrow is useful.
-  
+
 
 I am putting off freeCodeCamp to work on Programming Challenge(s) 
 
@@ -73,7 +73,7 @@ How do I code this?
 ## Questions:
 
 I can visualize the pattern as seen in table above.  How do I come up with the formula?  
-How can I develop this skill?  I assume practice more math.
+How can I develop this skill?  I assume that I should practice more math.
 
 
 ## Bugs discovered / what I got stuck on:
