@@ -13,7 +13,7 @@ This is my sixth blog post made with Jekyll! Woohoo!
 
 HW - Challenge 1:
 
->    PROGRAMMING CHALLENGE 1:   
+> ***********   PROGRAMMING CHALLENGE 1:   *********** 
 >  Write a function that answers the question,
 >  "How many UNIQUE pairings would we have if everyone in our
 >  group did one pair programming session with everyone else?"
@@ -38,6 +38,8 @@ How do I code this?
 | 9         ||    36        |
 | 10        ||    45        |
 
+
+Trying to figure out formula:
 
 | x = 2      |    | y = 1
 | x++ = 3    |    | y + 2 = 3
@@ -65,6 +67,17 @@ numPeople(8);
 ```
 
 
+> ***********   PROGRAMMING CHALLENGE 2:   ***********
+> If you finish challenge #1 above, here's an alternate version:
+> Write a function that takes an array of names and outputs a
+> string showing every unique pairing, in a format similar to:
+> "Amy and Bob, Amy and Cindy, Bob and Cindy" as one example.
+
+null
+
+
+
+
 ## Questions:
 
 
@@ -81,7 +94,7 @@ numPeople(8);
 
 
 
-**Perseverance is key!**  
+***Perseverance is key!***  
 
 
 
