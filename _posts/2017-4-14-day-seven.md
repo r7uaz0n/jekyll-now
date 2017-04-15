@@ -70,7 +70,8 @@ How do I code this?
 
 ## Questions:
 
-I can visualize the pattern as seen in table above.  How do come up with the formula?  
+I can visualize the pattern as seen in table above.  How do I come up with the formula?  
+How can I develop this skill?  I assume practice more math.
 
 
 ## Bugs discovered / what I got stuck on:
