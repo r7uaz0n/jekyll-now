@@ -9,6 +9,7 @@ This is my sixth blog post made with Jekyll! Woohoo!
 
 - Had some trouble updating my blogs.  I may have been titling them incorrectly as I went back to tidy things up.  Debugging Markdown is fine but rather be focusing on JavaScript.  :)
 - I am getting quicker using Git via Terminal to publish blogs.  Using up arrow is useful.
+- I notice the blog doesn't update right away and that I have to refresh the browser several times before I can see the changes made.
 
 
 I am putting off freeCodeCamp to work on Programming Challenge(s) 
