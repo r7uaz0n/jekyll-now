@@ -73,7 +73,7 @@ numPeople(8);
 > string showing every unique pairing, in a format similar to:
 > "Amy and Bob, Amy and Cindy, Bob and Cindy" as one example.
 
-null
+<null>
 
 
 ## Questions:
