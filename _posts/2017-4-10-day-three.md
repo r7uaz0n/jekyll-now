@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4.10.2017 - Day Three 
+title: 4.10.2017 - Day Three -
 ---
 
 This is my third blog post made with Jekyll! Woohoo! 
