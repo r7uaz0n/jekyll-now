@@ -8,8 +8,8 @@ This is my sixth blog post made with Jekyll! Woohoo!
 ## Today I learned (#TIL):   
 
 - Had some trouble updating my blogs.  I may have been titling them incorrectly as I went back to tidy things up.  Debugging Markdown is fine but rather be focusing on JavaScript.  :)
-- I am putting off freeCodeCamp to work on Programming Challenge(s) 
 
+I am putting off freeCodeCamp to work on Programming Challenge(s) 
 
 ## Homework
 > ***********   PROGRAMMING CHALLENGE 1:   *********** 
