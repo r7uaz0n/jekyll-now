@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4.14.2017 - Day Seven - 
+title: 4.14.2017 - Day eight - 
 ---
 
 This is my sixth blog post made with Jekyll! Woohoo! 
