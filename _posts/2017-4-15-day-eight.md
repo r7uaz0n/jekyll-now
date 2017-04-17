@@ -3,7 +3,7 @@ layout: post
 title: 4.15.2017 - Day Eight - 
 ---
 
-This is my seventh blog post made with Jekyll! Woohoo! 
+This is my eighth blog post made with Jekyll! Woohoo! 
 
 ## Today I learned (#TIL):   
 
