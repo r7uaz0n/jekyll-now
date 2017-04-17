@@ -42,6 +42,9 @@ What is a function?
 
 [homebrew](https://brew.sh/)
 
+[Allen Mackey - Algorithm in JavaScript - presentation](https://docs.google.com/presentation/d/1d6uz9jeW3OQ5wKNpqQqgoIaC08Aan2p8IxuAa3XmmvE/edit?usp=sharing)
+
+[Python Tutor](http://pythontutor.com/)
 
 
 ## My next goals:
