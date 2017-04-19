@@ -11,6 +11,7 @@ This is my eleventh blog post made with Jekyll! Woohoo!
 - Take every little step in to consideration.
 
 ![image_of_visualized_sketch](https://r7uaz0n.github.io/images/sketch2.jpg){: height="400px" width="500px"}
+
 (not the most organized sketch but it's something) :)
 
 - Nice to use and see the ```||``` operator in action.
