@@ -9,6 +9,10 @@ This is my eleventh blog post made with Jekyll! Woohoo!
 
 - It's good to visualize the problem by making a kind of flow chart w/ pen and paper to help solve a problem in code.
 - Take every little step in to consideration.
+
+![image_of_visualized_sketch](https://r7uaz0n.github.io/images/sketch2.jpg){: height="400px" width="500px"}
+(not the most organized sketch but it's something) :)
+
 - Nice to use and see the ```||``` operator in action.
 - count++ does same as count +=1
 - count-- does same as count -=1
