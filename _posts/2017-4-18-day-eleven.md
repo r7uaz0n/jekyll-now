@@ -12,7 +12,8 @@ This is my eleventh blog post made with Jekyll! Woohoo!
 - Nice to use and see the ```||``` operator in action.
 - count++ does same as count +=1
 - count-- does same as count -=1
-:bowtie:
+
+- :bowtie:
 
 ## Questions:
 
