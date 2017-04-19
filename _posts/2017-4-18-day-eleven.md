@@ -13,7 +13,6 @@ This is my eleventh blog post made with Jekyll! Woohoo!
 - count++ does same as count +=1
 - count-- does same as count -=1
 
-- :bowtie:
 
 ## Questions:
 
