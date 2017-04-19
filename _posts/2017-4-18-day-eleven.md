@@ -9,7 +9,7 @@ This is my eleventh blog post made with Jekyll! Woohoo!
 
 - It's good to visualize the problem by making a kind of flow chart w/ pen and paper to help solve a problem in code.
 - Take every little step in to consideration.
-- Nice to use and see the || operator in action.
+- Nice to use and see the ```||``` operator in action.
 - count++ does same as count +=1
 - count-- does same as count -=1
 :bowtie:
