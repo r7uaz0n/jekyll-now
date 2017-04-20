@@ -19,6 +19,28 @@ This is my twelfth blog post made with Jekyll! Woohoo!
 
 - I got stuck working on a challenge on Testing Objects for Properties.  Something tells me it's not as difficult as it appears to be as I tend to overthink some of these problems.  Need to go back and review objects and how to modify functions.
 
+Modify the function checkObj to test myObj for checkProp. If the property is found, return that property's value. If not, return "Not Found".
+```javascript
+
+// Setup
+var myObj = {
+  gift: "pony",
+  pet: "kitten",
+  bed: "sleigh"
+};
+
+function checkObj(checkProp) {
+  // Your Code Here
+  
+  return "Not Found";
+}
+
+// Test your code by modifying these values
+checkObj("gift");
+```
+
+
+
 - I have a broken image link from yesterday's blog posting I haven't been able to figure out.
 
 ## Useful links to save for later:
