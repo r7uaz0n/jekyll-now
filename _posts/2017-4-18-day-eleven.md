@@ -12,7 +12,7 @@ This is my eleventh blog post made with Jekyll! Woohoo!
 
 ![image_of_sketch2](https://r7uaz0n.github.io/images/sketch2.jpg)
 
-(not the most organized sketch but it's something) :)
+(not the most neatest sketch but it's something) :)
 
 - Nice to use and see the ```||``` operator in action.
 - count++ does same as count +=1
