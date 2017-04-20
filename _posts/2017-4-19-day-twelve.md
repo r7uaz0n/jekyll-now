@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4.19.2017 - Day Eleven - 
+title: 4.19.2017 - Day Twelve - 
 ---
 
 This is my twelfth blog post made with Jekyll! Woohoo! 
