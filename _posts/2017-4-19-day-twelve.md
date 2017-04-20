@@ -12,16 +12,14 @@ This is my twelfth blog post made with Jekyll! Woohoo!
 - I learned about git log which lists the log of all the changes that have been committed so far.
 
 
-
 ## Questions:
-
-
 
 
 ## Bugs discovered / what I got stuck on:
 
-I got stuck working on a challenge on Testing Objects for Properties.  Something tells me it's not as difficult as it appears to be as I tend to overthink some of these problems.  Need to go back and review objects and how to modify functions.
+- I got stuck working on a challenge on Testing Objects for Properties.  Something tells me it's not as difficult as it appears to be as I tend to overthink some of these problems.  Need to go back and review objects and how to modify functions.
 
+- I have a broken image link from yesterday's blog posting I haven't been able to figure out.
 
 ## Useful links to save for later:
 
