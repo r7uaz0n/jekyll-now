@@ -71,6 +71,7 @@ console.log(answer);
 outputs:  ["5", "4", "3", "2", "1", "0"]
 
 
+
 **Example 2 - Removes spaces from `string`**
 ```javascript
 var weekdays = 'Monday ;Tuesday; Wednesday ; Thursday ;Friday ';
@@ -85,6 +86,7 @@ console.log(weekdaysList);
 outputs:  ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday "]
 
 
+
 **Example 3 - Returns a limited number of splits**
 ```javascript
 var myString = 'It is fun to learn JavaScript!';
@@ -93,6 +95,7 @@ var splits = myString.split(' ', 4);
 console.log(splits);
 ```
 outputs:  [It", "is", "fun", "to"]
+
 
 
 **Example 4 - Capturing parentheses**
@@ -104,6 +107,7 @@ var splits = myString.split(/(\d)/);
 console.log(splits);
 ```
 outputs:  ["Rick ", "1", " learning. He ", "2", " learning JS."]
+
 
 
 **Example 5 - Reversing a String using split()**
