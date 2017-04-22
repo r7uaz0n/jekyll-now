@@ -53,11 +53,11 @@ var myMusic =  [
 
 - Worked on Week 2 H/W today:
 
-# `split()`
+# split()
 > The `split()` method splits a String object into an array of strings by separating the string into substrings.
 
 Syntax
-`str.split([separator[, limit]])`
+str.split([separator[, limit]])
 
 
 Source:  [MDN - String.prototype.split()()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
@@ -70,8 +70,8 @@ console.log(answer);
 ```
 outputs:  ["5", "4", "3", "2", "1", "0"]
 
-Example 2 - Removes spaces from `string`
 
+Example 2 - Removes spaces from `string`
 ```javascript
 var weekdays = 'Monday ;Tuesday; Wednesday ; Thursday ;Friday ';
 
@@ -86,18 +86,17 @@ outputs:  ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday "]
 
 
 Example 3 - Returns a limited number of splits
-
 ```javascript
 var myString = 'It is fun to learn JavaScript!';
 var splits = myString.split(' ', 4);
 
 console.log(splits);
 ```
-outputs:  It", "is", "fun", "to"]
+outputs:  [It", "is", "fun", "to"]
+
 
 Example 4 - Capturing parentheses
 If separator contains capturing parentheses, matched results are returned in the array.
-
 ```javascript
 var myString = 'Rick 1 learning. He 2 learning JS.';
 var splits = myString.split(/(\d)/);
@@ -106,8 +105,8 @@ console.log(splits);
 ```
 outputs:  ["Rick ", "1", " learning. He ", "2", " learning JS."]
 
-Example 5 - Reversing a String using split()
 
+Example 5 - Reversing a String using split()
 ```javascript
 var str = '.kciR si eman yM';
 var strReverse = str.split('').reverse().join(''); 
