@@ -12,8 +12,8 @@ This is my fifteenth blog post made with Jekyll! Woohoo!
 - Tech jargon tip:  When inside an object, its variables are called properties, and its functions are called methods.
 
 - textContent vs value
-* You need to use the value property to get the text inside any form element.
-* All other types of HTML elements, the textCOntent property will work fine.
+  * You need to use the value property to get the text inside any form element.
+  * All other types of HTML elements, the textCOntent property will work fine.
 
 **Breakdown of the JS Event Listener**  (Slide 84)
 ```javascript
