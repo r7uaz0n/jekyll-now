@@ -36,6 +36,7 @@ When I was using Sublime Text today, all the text was white until I closed and r
 
 ## Useful links to save for later:
 
+[Learn Teach Code - Intro to JavaScript slides](http://learnteachcode.org/javascript-intro/#/)
 
 ## My next goals:
 
