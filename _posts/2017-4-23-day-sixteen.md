@@ -51,6 +51,8 @@ I needed to understand this in order to solve another problem which involved Nes
 
 ## My next goals:
 
+- Solve last challenge I got stuck on.
+- watch h/w videos
 
 
 # Perseverance is key!
