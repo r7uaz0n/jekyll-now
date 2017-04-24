@@ -31,16 +31,17 @@ for (var i = 0; i < myArr.length; i++){
 ![image_of_sketch3](http://r7uaz0n.github.io/images/sketch3.jpg)
 ![image_of_debugger1](http://r7uaz0n.github.io/images/debugger1.png)
 
-I needed to understand this in order to solve another problem which involved Nesting For Loops in a multi-dimensional array which is frying my brain. 
-
-
+I needed to understand this in order to solve another problem which involves Nesting For Loops in a multi-dimensional array which was frying my brain so I decided to leave it for the day. 
 
 
 ## Questions:
 
 
 
+
 ## Bugs discovered / what I got stuck on:
+
+- Nesting For Loops
 
 
 ## Useful links to save for later:
