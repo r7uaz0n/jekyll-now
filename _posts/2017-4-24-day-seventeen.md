@@ -17,7 +17,7 @@ arr.forEach(function callback(currentValue, index, array) {
     //your iterator
 }[, thisArg]);
 ```
-
+Example code:
 ```javascript
 var a = ['Rick', 'Monday', 'awesome'];
 
