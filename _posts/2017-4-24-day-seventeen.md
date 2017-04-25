@@ -62,12 +62,14 @@ Instructions:
 function multiplyAll(arr) {
   var product = 1;
   // Only change code below this line
+  
 for (var i = 0; i < arr.length; i++){  // not sure, just modeled after example code
   for (var j = 0; j < arr[i].length; j++){  // not sure, just modeled after example code
     console.log(arr[i][j]);  // not sure, just modeled after example code
   }
 }
-  
+  	product *= arr[i];
+
   // Only change code above this line
   return product;
 }
