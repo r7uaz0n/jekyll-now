@@ -21,17 +21,17 @@ arr.forEach(function callback(currentValue, index, array) {
 ```
 Example code:
 ```javascript
-var a = ['Rick', 'Monday', 'awesome'];
+var a = ['one', 'two', 'three'];
 
 a.forEach(function(element) {
     console.log(element);
 });
 ```
-outputs:
+Outputs:
 ```javascript
-Rick
-Monday
-awesome
+one
+two
+three
 ```
 source:  [Array.prototype.forEach() on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
