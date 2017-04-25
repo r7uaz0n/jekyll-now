@@ -12,6 +12,7 @@ This is my seventeenth blog post made with Jekyll! Woohoo!
 	>"The forEach() method executes a provided function once for each array element."
 
 source:  [Array.prototype.forEach() on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
 *Syntax*
 ```javascript
 arr.forEach(function callback(currentValue, index, array) {
