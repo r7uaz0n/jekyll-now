@@ -40,7 +40,7 @@ awesome
 
 ## Bugs discovered / what I got stuck on:
 
-** Nesting For Loop ** challenge
+** Nesting For Loops ** freeCodeCamp challenge
 ```javascript
 function multiplyAll(arr) {
   var product = 1;
