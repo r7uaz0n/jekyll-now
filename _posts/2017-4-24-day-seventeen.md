@@ -43,6 +43,7 @@ awesome
 ## Bugs discovered / what I got stuck on:
 
 _Nesting For Loops_ freeCodeCamp challenge
+
 Example code:
 ```javascript
 var arr = [
