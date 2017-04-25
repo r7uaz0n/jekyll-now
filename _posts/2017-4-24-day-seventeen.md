@@ -34,10 +34,7 @@ awesome
 
 
 
-
-
 ## Questions:
-
 
 
 
@@ -49,7 +46,7 @@ awesome
 
 ## Useful links to save for later:
 
-
+I'm intrigued by this: [Johnny-Five](http://johnny-five.io/) 
 
 ## My next goals:
 
