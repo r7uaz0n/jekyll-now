@@ -52,8 +52,9 @@ for (var i=0; i < arr.length; i++) {
   }
 }
 ```
->Instructions
+Instructions:
 >Modify function `multiplyAll` so that it multiplies the `product` variable by each number in the sub-arrays of `arr`
+
 ```javascript
 function multiplyAll(arr) {
   var product = 1;
