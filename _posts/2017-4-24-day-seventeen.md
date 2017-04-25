@@ -7,10 +7,10 @@ This is my seventeenth blog post made with Jekyll! Woohoo!
 
 - Got the broken image link working from Day 11.  I removed the image file and then reuploaded to Git.  Appears to be displaying properly now.
 
-- Looking in to [Arrays on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) as I was trying to solve the Nesting For Loop problem.
+- Looking in to [Arrays on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) as I was trying to solve the _Nesting For Loops_ challenge.
 	* lead me to look in to `forEach` method:  
 	>"The forEach() method executes a provided function once for each array element."
-
+source:  [Array.prototype.forEach() on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 *Syntax*
 ```javascript
 arr.forEach(function callback(currentValue, index, array) {
@@ -40,7 +40,7 @@ awesome
 
 ## Bugs discovered / what I got stuck on:
 
-** Nesting For Loops ** freeCodeCamp challenge
+_Nesting For Loops_ freeCodeCamp challenge
 Example code:
 ```javascript
 var arr = [
@@ -72,7 +72,7 @@ for (var i = 0; i < arr.length; i++){  // not sure, just modeled after example c
 // Modify values below to test your code
 multiplyAll([[1,2],[3,4],[5,6,7]]);
 ```
-- Still stuck on Nesting For Loops challenge.  Will move on to something else and get back to it.   
+- Still stuck on _Nesting For Loops_ challenge.  Will move on to something else and get back to it.   
 
 
 
@@ -82,8 +82,11 @@ I'm intrigued by this: [Johnny-Five](http://johnny-five.io/)
 
 ## My next goals:
 
-- finish up freeCodeCamp JavaScript Basics challenges
-- work on h/w
+- look in to breakout h/w
+- rewatch _Learning how to Learn_ video. 
+- another attempt at the _Nesting For Loops_ challenge, else move on
+- work on other freeCodeCamp JavaScript Basics challenges
+
 
 
 
