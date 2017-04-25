@@ -13,7 +13,6 @@ This is my seventeenth blog post made with Jekyll! Woohoo!
 
 *Syntax*
 ```javascript
-Syntax
 arr.forEach(function callback(currentValue, index, array) {
     //your iterator
 }[, thisArg]);
