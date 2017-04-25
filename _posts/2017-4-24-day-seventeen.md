@@ -5,7 +5,7 @@ title: 4.24.2017 - Day Seventeen -
 
 This is my seventeenth blog post made with Jekyll! Woohoo! 
 
-- Got the broken image link working from Day 11.  I removed the image file and then reuploaded to Git.  Appears to be displaying properly now.
+- Got the broken image link working from [Day 11](https://r7uaz0n.github.io/day-eleven/).  I removed the image file and then reuploaded to Git.  Appears to be displaying properly now.
 
 - Looking in to [Arrays on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) as I was trying to solve the _Nesting For Loops_ challenge.
 	* lead me to look in to `forEach` method:  
@@ -62,7 +62,7 @@ Instructions:
 function multiplyAll(arr) {
   var product = 1;
   // Only change code below this line
-  
+
 for (var i = 0; i < arr.length; i++){  // not sure, just modeled after example code
   for (var j = 0; j < arr[i].length; j++){  // not sure, just modeled after example code
     console.log(arr[i][j]);  // not sure, just modeled after example code
