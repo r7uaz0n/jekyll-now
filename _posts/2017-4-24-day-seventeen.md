@@ -10,6 +10,7 @@ This is my seventeenth blog post made with Jekyll! Woohoo!
 - Looking in to [Arrays on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) as I was trying to solve the _Nesting For Loops_ challenge.
 	* lead me to look in to `forEach` method:  
 	>"The forEach() method executes a provided function once for each array element."
+
 source:  [Array.prototype.forEach() on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 *Syntax*
 ```javascript
