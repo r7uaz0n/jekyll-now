@@ -21,7 +21,7 @@ This is my eighteenth blog post made with Jekyll! Woohoo!
 
 ## Useful links to save for later:
 
-[Phaser](https://phaser.io/)
+[Phaser](https://phaser.io/) Desktop and Mobile HTML5 game framework
 
 ## My next goals:
 
