@@ -63,7 +63,7 @@ checkObj("gift");
 
 - Continued to work on 2D breakout game but didn't get very far.  I remember the 2D primitive shapes used in [Processing](https://processing.org/) when I did some intro tutorials that have a similar syntax to JavaScript.  Good to note how to place these shapes on canvas.
 
-	*rect () - the first two values specify the coordinates of the top left corner of the rectangle on the canvas, while the second two specify the width and height of the rectangle.
+	* rect () - the first two values specify the coordinates of the top left corner of the rectangle on the canvas, while the second two specify the width and height of the rectangle.
 	
 	syntax
 > void ctx.rect(x, y, width, height);
