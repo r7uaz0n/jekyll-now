@@ -10,7 +10,7 @@ This is my twentieth blog post made with Jekyll! Woohoo!
 
 - Continued working on 2D breakout game.  
 
-- Based on a Slack discussion,  looks like I can brush up on some math at Khan Acaedmy  
+- Based on a Slack discussion,  looks like I can brush up on some math at Khan Academy  
 
 
 ## Questions:
@@ -21,7 +21,9 @@ This is my twentieth blog post made with Jekyll! Woohoo!
 2D breakout game.  
 On the section:
 > Allowing the user to control the paddle
+
 The second part says:  
+
 _Add the following lines just above the setInterval() line at the bottom of your JavaScript:_
 ```javascript
 document.addEventListener("keydown", keyDownHandler, false);
@@ -30,6 +32,7 @@ document.addEventListener("keyup", keyUpHandler, false);
 
 But where it says to:
 > Compare your code
+
 these lines are not above the `setInterval()` line but rather  just below the variables.
 
 I will backtrack and and then continue on. 
