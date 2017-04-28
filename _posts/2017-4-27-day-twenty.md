@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title: 4.27.2017 - Day Twenty - 
 ---
