@@ -10,7 +10,8 @@ This is my twenty-first blog post made with Jekyll! Woohoo!
 
 - Watched a short [Max MSP: Intro to JavaScript](https://www.youtube.com/watch?v=0Yfqp2I_Chw) tutorial._  I haven't thought how I can use JS in Max yet as I've been focused more on learning JS.  There is an algorithm related to probability I may consider using JS.  I'll have to pick the brain of someone who is good with probability and algorithms.  
 - Did some math exercises in Khan Academy.  Did some pre-algebra exercises.  Most were too easy though good to refresh and get warmed up to practice math again.
-- Continued working on 2D Breakout game. 
+- Continued working on 2D Breakout game.  I can see this tutorial taking only a couple of hours but the concepts don't really sink in if rushing through it.  I may have to go back and break it down to gain a better understanding of what's happening.
+
 Ugh oh, multi-dimensional arrays in lesson 6. 
 
 
@@ -207,13 +208,15 @@ setInterval(draw, 10);
 </script>
 ```
 
-Just noticed this same problem in Lesson 7.  
+Just noticed this same problem in Lesson 7.  This can be confusing for someone very new to JS and is following the tutorial step-by-step only to find that the code in the tutorial doesn't align with the instructions provided.  
 
 ## Useful links to save for later:
 
 [MAX MSP: INTRODUCTION TO JAVASCRIPT PT1](https://www.youtube.com/watch?v=0Yfqp2I_Chw)
 
 ## My next goals:
+
+- Finish 2D Breakout game if I haven't already yet.  :)
 
 
 # Perseverance is key!
