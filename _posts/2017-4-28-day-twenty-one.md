@@ -8,11 +8,11 @@ This is my twenty-first blog post made with Jekyll! Woohoo!
 
 ## Today I learned (#TIL):   
 
-- Watched a short [Max MSP: Intro to JavaScript](https://www.youtube.com/watch?v=0Yfqp2I_Chw) tutorial._  I haven't thought how I can use JS in Max yet as I've been focused more on learning JS.  There is an algorithm related to probability I may consider using JS.  I'll have to pick the brain of someone who is good with probability and algorithms.  
-- Did some math exercises in Khan Academy.  Did some pre-algebra exercises.  Most were too easy though good to refresh and get warmed up to practice math again.
-- Continued working on 2D Breakout game.  I can see this tutorial taking only a couple of hours but the concepts don't really sink in if rushing through it.  I may have to go back and break it down to gain a better understanding of what's happening.
+- Watched a short [Max MSP: Intro to JavaScript](https://www.youtube.com/watch?v=0Yfqp2I_Chw) tutorial.  I haven't thought how I can use JS in Max yet as I've been focused more on learning JS.  There is an algorithmic probability problem I may consider using JS.  I'll have to pick the brain of someone who is good with probability and algorithms.  
+- Did some math exercises in Khan Academy.  Did some pre-algebra exercises.  Most were too easy though good to refresh and get warmed up to practice math again.  
+- Continued working on 2D Breakout game.  It's taken longer than a couple of hours.  See section below on getting stuck. 
 
-Ugh oh, multi-dimensional arrays in lesson 6. 
+Ugh oh, multi-dimensional arrays in lesson 6.  I need to better process these.  
 
 
 ## Questions:
@@ -208,7 +208,7 @@ setInterval(draw, 10);
 </script>
 ```
 
-Just noticed this same problem in Lesson 7.  This can be confusing for someone very new to JS and is following the tutorial step-by-step only to find that the code in the tutorial doesn't align with the instructions provided.  
+Just noticed this same problem in Lesson 7.  This can be confusing for someone very new to JS and is following the tutorial step-by-step only to find that the code in the tutorial doesn't align with the instructions provided but it could be a way to get more familiar with the code and to look at it more and recognize patterns even in a visual sense.  
 
 ## Useful links to save for later:
 
