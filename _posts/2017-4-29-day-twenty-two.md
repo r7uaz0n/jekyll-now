@@ -99,7 +99,7 @@ socket.emit('my event', myData);
 - review socket.io class project
 - catch up on past h/w and other stuff
 - Just picked up this book.  [Make:  Getting Started with p5.js](https://p5js.org/books/)
-I am thinking of documenting the results of the tutorial exercises here just for the sake of practice even though the tutorials might be pretty basic.  
+I am thinking of documenting the results of the tutorial exercises here for the sake of practice. 
 
 
 # Perseverance is key!
