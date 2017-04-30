@@ -81,6 +81,8 @@ Breakdown of the SocketIO Event Emitter
 socket.emit('my event', myData);
 ```
 
+- JavaScript lint
+
 ## Questions:
 
 
