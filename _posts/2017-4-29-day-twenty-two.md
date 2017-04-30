@@ -90,7 +90,7 @@ socket.emit('my event', myData);
 
 ## Useful links to save for later:
 
-[xebra.js](https://cycling74.github.io/xebra.js/) - hope to explore this as I get more familiar with Javascript syntax
+[xebra.js](https://cycling74.github.io/xebra.js/) - hope to explore this as I get more familiar with Javascript syntax.  Good practice using websockets also. 
 
 
 ## My next goals:
