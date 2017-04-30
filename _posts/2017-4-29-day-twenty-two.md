@@ -8,6 +8,7 @@ This is my twenty-second blog post made with Jekyll! Woohoo!
 ## Today I learned (#TIL):   
 
 - `parseInt()` function parses a string argument and returns an integer of the specified radix (the base in mathematical numeral systems).
+
 _Syntax_
 > parseInt(string, radix);
 
