@@ -52,7 +52,10 @@ Breakdown of the SocketIO Event Listener
 }
 ```
 
+
+
 _CALL BACK FUNCTIONS_
+
 Breakdown of the JavaScript Event Listener
 ```javascript
     document.addEventListener('click', myFunction);
@@ -70,11 +73,12 @@ Anonymous functions work too
 });
 ```
 
+
+
 Breakdown of the SocketIO Event Emitter
 ```javascript
 socket.emit('my event', myData);
 ```
-
 
 ## Questions:
 
