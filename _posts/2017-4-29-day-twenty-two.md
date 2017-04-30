@@ -31,7 +31,7 @@ source:  [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Glob
 
 - Web browser web address:  localhost:8000
 
-_socket.io flowchart_
+_socket.io flowchart from class_
 ![socketio_flowchart](/images/socketio_flowchart.jpg)
 
 Breakdown of the JavaScript Event Listener
