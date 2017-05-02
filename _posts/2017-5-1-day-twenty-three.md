@@ -27,6 +27,7 @@ var brickColumnCount = 5;
 
 - Did a practice project with Liz and Nao today.  Didn't quite finish and have to debug.
 Codepen here:  [Number Guessing Game](https://codepen.io/r7uaz0n/pen/JNJdry?editors=0010)
+
 How easy I am to forget things I have learned in the last few weeks.  Need to keep practicing.  
 
 - Have to come up with some ideas for small practice projects for our hackathon day this week.  I would like to practice general JS programming but also have an algorithmic problem I would like to solve. I may save the algorithmic problem for another time or meetup. :)
