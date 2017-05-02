@@ -11,7 +11,7 @@ This is my twenty-third blog post:
 
 ![2D_breakout_img](/images/2D_breakout.png)
 
-There are some inaccuracies in the tutorial which might confuse beginners so it's always good to keep an eye out on this when comparing your code with the code in the tutorial.
+There are some inaccuracies in the tutorial which confused me at times during the course of building this game, so it's always good to keep an eye out on this when comparing your code with the code in the tutorial.
 
 Here's one example:
 
