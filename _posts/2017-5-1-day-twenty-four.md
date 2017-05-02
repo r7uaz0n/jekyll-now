@@ -44,17 +44,6 @@ How easy I am to forget things I have learned in the last few weeks.  Need to ke
 I will embed the sketch on a webpage in later blog posts so that viewers can interact with it.
 
 
-## Questions:
-
-
-
-## Bugs discovered / what I got stuck on:
-
-
-
-## Useful links to save for later:
-
-
 
 ## My next goals:
 
