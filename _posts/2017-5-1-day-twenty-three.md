@@ -46,8 +46,18 @@ How easy I am to forget things I have learned in the last few weeks.  Need to ke
 - Drawn output:
 ![P5js-exampleOutput2-2](/images/P5js-exampleOutput2-2.png)
 
-I will embed the sketch on a webpage in later blog posts so that viewers can interact with it.
+In the future I would like to embed the sketch on a webpage and post a link so a viewer may experience the interaction.
 
+
+## Questions:
+
+
+## Bugs discovered / what I got stuck on:
+
+
+## Useful links to save for later:
+
+[React VR](https://code.facebook.com/posts/215238872297197/building-virtual-reality-experiences-on-the-web-with-react-vr/)
 
 
 ## My next goals:
@@ -55,7 +65,8 @@ I will embed the sketch on a webpage in later blog posts so that viewers can int
 - Work on this weeks HW
 - Practice JS daily
 - Work on past HW
-- Do another P5.js sketch from the book
+- Do another P5.js example sketch from the book
+- Review some math
 
 
 # Perseverance is key!
