@@ -7,7 +7,11 @@ This is my twenty-third blog post:
 
 ## Today I learned (#TIL):   
 
-- Finished the 2D Breakout tutorial finally.  Yay! :)  There are some inaccuracies in the tutorial which might confuse beginners so it's always good to keep an eye out on this when comparing your code with the code in the tutorial.
+- Finished the 2D Breakout tutorial finally.  Yay! :)  
+
+![2D_breakout_img](/images/2D_breakout.png)
+
+There are some inaccuracies in the tutorial which might confuse beginners so it's always good to keep an eye out on this when comparing your code with the code in the tutorial.
 
 Here's one example:
 
