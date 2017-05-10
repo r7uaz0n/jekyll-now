@@ -33,7 +33,9 @@ You an also change the oscillator.type using either:
 ## Useful links to save for later:
 
 [JS arrays on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
 [Web Audio School](https://mmckegg.github.io/web-audio-school/)
+
 [OscillatorNode.type](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode/type)
 
 ## My next goals:
