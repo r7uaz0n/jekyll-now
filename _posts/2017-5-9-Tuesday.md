@@ -12,7 +12,7 @@ This is my twenty-seventh blog post:
 
 ## Web Audio
 
-- Just started to go through [web-audio-school](https://mmckegg.github.io/web-audio-school/).  Was able to make my browser play some simple oscillator tones in repl.it
+- Just started to go through [Web Audio School](https://mmckegg.github.io/web-audio-school/).  Was able to make my browser play some simple oscillator tones in repl.it
 
 ```javascript
 var audioContext = new AudioContext()
@@ -32,11 +32,13 @@ You an also change the oscillator.type using either:
 
 ## Useful links to save for later:
 
+[JS arrays on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+[Web Audio School](https://mmckegg.github.io/web-audio-school/)
 [OscillatorNode.type](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode/type)
 
 ## My next goals:
 
-- Do more web audio tutorials
+- Do more web audio school tutorials
 - Continue to practice JS
 - Catch up on past H/W assignments and problems to solve
 - Review some math
