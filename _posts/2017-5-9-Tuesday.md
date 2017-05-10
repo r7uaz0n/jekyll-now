@@ -15,10 +15,14 @@ This is my twenty-seventh blog post:
 - Just started to go through [Web Audio School](https://mmckegg.github.io/web-audio-school/).  Was able to make my browser play some simple oscillator tones in repl.it
 
 ```javascript
-var audioContext = new AudioContext()  // create web audio api context
-var oscillator = audioContext.createOscillator()  // create Oscillator node
+// create web audio api context
+var audioContext = new AudioContext() 
+
+// create Oscillator node
+var oscillator = audioContext.createOscillator()  
+
 oscillator.start(audioContext.currentTime)
-oscillator.stop(audioContext.currentTime + 5) // stop after 2 seconds
+oscillator.stop(audioContext.currentTime + 2) // stop after 2 seconds
 oscillator.connect(audioContext.destination)
 oscillator.type = 'sine'  // 'sine', 'triangle', 'sawtooth', or  'square'.
 oscillator.frequency.value = 440;   // value in hertz
