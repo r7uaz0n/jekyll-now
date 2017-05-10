@@ -22,8 +22,11 @@ oscillator.stop(audioContext.currentTime + 2) // stop after 2 seconds
 oscillator.connect(audioContext.destination)
 oscillator.type = 'sine'
 ```
-You can adjust the length of the tone by changing the number value in:   oscillator.stop(audioContext.currentTime + 2) 
-You an also change the oscillator.type using either'sine', 'triangle', 'sawtooth', and 'square'.
+You can adjust the length of the tone by changing the number value in:   
+oscillator.stop(audioContext.currentTime + 2) 
+
+You an also change the oscillator.type using either:
+'sine', 'triangle', 'sawtooth', and 'square'.
 
 
 
@@ -33,10 +36,10 @@ You an also change the oscillator.type using either'sine', 'triangle', 'sawtooth
 
 ## My next goals:
 
+- Do more web audio tutorials
 - Continue to practice JS
 - Catch up on past H/W assignments and problems to solve
 - Review some math
-- Explore more web audio
 
 
 # Read-Search-Ask
