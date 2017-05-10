@@ -36,7 +36,7 @@ You can change the value of the hertz:  oscillator.frequency.value = 440;
 You an also change the oscillator.type using either:
 'sine', 'triangle', 'sawtooth', and 'square'.
 
-Syntax
+**Syntax**
 
 ```
 OscillatorNode.type = type;
