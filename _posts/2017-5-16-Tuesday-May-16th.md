@@ -8,9 +8,9 @@ This is my thirty-first blog post:
 
 ## Today I learned (#TIL):   
 
-- Attended the Los Angeles Computer Vision meetup this evening.  A lot of what was  presented was out of my scope of technical knowledge.
+- Attended the Los Angeles Computer Vision meetup this evening.  A lot of what was presented was out of my scope of technical knowledge. 
 
-- Continued working on _Loop Warmup HW_ with this problem:
+- Continued working on _Loop Warmup HW_ on this problem:
 
 >// CHALLENGE 18:
 >Write a WHILE loop that displays the numbers 1 to 10 (inclusive),
@@ -37,11 +37,11 @@ This is my thirty-first blog post:
 
 >10 
 
-Got some help from stack but got stuck.
+Got some help from slack but still trying to figure out the rest of the solution.
 
 ## What I got stuck on:
 
-- Stuck on above problem.  Code I'm working with that is not correct:
+- Above problem.  Code I'm working with that is not correct or complete:
 
 ```javascript
   var i=0;
