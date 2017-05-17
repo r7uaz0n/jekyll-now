@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monday - 5.15.2017 
+title: 5.15.2017 - Monday - 
 ---
 
 This is my thirtieth blog post: 
