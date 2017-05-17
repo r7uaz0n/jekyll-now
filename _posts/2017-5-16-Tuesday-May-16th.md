@@ -44,17 +44,17 @@ Got some help from stack but got stuck.
 - Stuck on above problem.  Code I'm working with that is not correct:
 
 ``javascript
-var i=0;
-while (i<=9) {
-  i++;
-  var j = i % 3; 
-  if (j === 0){
-    i = "fizz";
-    console.log(i);
-  } else  {
-   console.log(j);
-}
-}
+  var i=0;
+  while (i<=9) {
+   i++;
+   var j = i % 3; 
+   if (j === 0){
+     i = "fizz";
+     console.log(i);
+   } else  {
+    console.log(j);
+    }
+  }
 ```
 
 
