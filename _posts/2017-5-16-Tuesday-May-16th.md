@@ -60,7 +60,7 @@ Got some help from stack but got stuck.
 
 ## Useful links to save for later:
 
-More on Control Flow in JS Forum - [What is the usage of a modulo?](https://www.codecademy.com/en/forum_questions/543425067c82ca6013000d9f)
+More on Control Flow in JS Forum - [What is the usage of a modulo?](https://www.codecademy.com/en/forum_questions/543425067c82ca6013000d9f) - good explanation and use of modulus with examples
 
 
 ## My next goals:
