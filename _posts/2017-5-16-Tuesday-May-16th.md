@@ -57,7 +57,7 @@ Got some help from slack but still trying to figure out the rest of the solution
   }
 ```
 
-Continued working on it and put a `<debugger>` to see the code run in the console.  I was able to break down the problem and and come up with this solution:
+Continued working on it and put a `<debugger>` to see the code run in the console.  I was able to break down the problem, see what I was doing wrong and come up with this solution:
 
 ```javascript
   var i=0;
