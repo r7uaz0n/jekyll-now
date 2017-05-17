@@ -43,7 +43,7 @@ Got some help from stack but got stuck.
 
 - Stuck on above problem.  Code I'm working with that is not correct:
 
-``javascript
+```javascript
   var i=0;
   while (i<=9) {
    i++;
