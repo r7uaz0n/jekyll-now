@@ -41,7 +41,7 @@ Got some help from slack but still trying to figure out the rest of the solution
 
 ## What I got stuck on:
 
-- Above problem.  Code I'm working with that is not correct or complete:
+- Above problem.  Code I'm working with that was not correct nor complete:
 
 ```javascript
   var i=0;
@@ -57,6 +57,21 @@ Got some help from slack but still trying to figure out the rest of the solution
   }
 ```
 
+Continued working on it and came up with this solution:
+
+```javascript
+  var i=0;
+  while (i<=9) {
+    i++;
+    var j = i % 3; 
+    if (j === 0){
+      console.log("fizz");
+    } else  {
+     console.log(i);
+}
+}
+```
+
 
 ## Useful links to save for later:
 
@@ -65,7 +80,7 @@ More on Control Flow in JS Forum - [What is the usage of a modulo?](https://www.
 
 ## My next goals:
 
-- Solve last problem from _Loop Warmup HW_
+- Continue to work on and try to finish _Loop Warmup HW_
 - Catch up on past HW
 - Review some math
 - Continue to practice JS
