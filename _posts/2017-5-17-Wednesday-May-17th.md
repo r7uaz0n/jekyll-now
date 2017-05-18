@@ -83,7 +83,7 @@ Was getting some hints from a couple of the coders on Slack but wasn't able to f
 
 ## Useful links to save for later:
 
-- After attending last night's Computer Vision meetup, out of curiousity I Google searched computer vision and JS. Came across [tracking.js](https://trackingjs.com/) - computer vision on the web.  
+- After attending last night's Los Angeles Computer Vision meetup, out of curiousity I Google searched computer vision and JS. Came across [tracking.js](https://trackingjs.com/) - computer vision on the web.  
 
 - [Python Tutor](http://www.pythontutor.com/)
 
