@@ -56,7 +56,7 @@ Working this code but something is wrong:
   }
 ```
 
-It's logging the multiples of 3.  This is what the <console.log> outputs:
+It's logging the multiples of 3.  This is what the `<console.log>` outputs:
 
 ``` 
   1
