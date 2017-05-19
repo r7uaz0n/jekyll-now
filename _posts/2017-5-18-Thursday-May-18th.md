@@ -32,8 +32,7 @@ solution:
 
 I was also introduced to another way to solve the problem which I started at the Meetup and finished at home.  I'm wondering if setting `var i=1;` is correct.  Though it does solve the problem:
 
-```
-javascript
+```javascript
   var i=1;
   while (i<=10) {
     var j = i % 3;  
@@ -124,7 +123,7 @@ Will continue on this one tomorrow.
 ## My next goals:
 
 - Solve final H/W of _Loop Warmup HW_.
-- 
+- Practice more JS
 
 # Read-Search-Ask
 
