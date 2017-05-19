@@ -10,7 +10,7 @@ This is my thirty-third blog post:
 
 - Attended _Mentorship night at Pivotal Labs_ which was fun.  It was a great opportunity to meet various people with different backgrounds working in tech to ask questions about their background experience, advice as well as help on some problems.   I'm glad I went and hope to attend again.  I will have more questions prepared for next time.  
 
-- Was stuck on the same problem from yesterday but someone from tonight's meetup helped me out:
+- Was stuck on the same problem from yesterday but a couple of people from tonight's meetup helped me out:
 
 solution:
 
