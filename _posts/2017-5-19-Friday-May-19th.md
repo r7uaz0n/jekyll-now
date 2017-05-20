@@ -59,8 +59,9 @@ Ran it through [Python Tutor](http://pythontutor.com/) but I'm still unable to f
 
 ## My next goals:
 
-- Continue on Codecademy
+- Continue working on tutorials in Codecademy
 - Continue on web-audio tutorial
+- Review some math
 
 
 # Read-Search-Ask
