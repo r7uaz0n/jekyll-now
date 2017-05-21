@@ -12,7 +12,7 @@ This is my thirty-fourth blog post:
 
 - Worked on final problem of _Loop Warmup HW_ and still stuck.
 
-- Decided to go through some Codecademy tutorials.  Good review on functions. 
+- Decided to go through some Codecademy tutorials.  Good review on functions as well as terminology used when explaining things happening in code.  i.e. _passing in_ parameters to a function.  
 
 ## What I got stuck on:
 
