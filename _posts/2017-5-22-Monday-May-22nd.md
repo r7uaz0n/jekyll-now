@@ -17,7 +17,7 @@ This is my thirty-sixth blog post:
 
 ## Useful links to save for later:
 
-[Botwiki](https://botwiki.org/) - 
+[Botwiki](https://botwiki.org/):
 >is an open catalog of friendly, useful, artistic online bots, and tools and tutorials that can help you make them.
 
 [What is a "bot"?](https://botwiki.org/bots/)
