@@ -11,7 +11,7 @@ This is my thirty-sixth blog post:
 
 [JavaScript Air - React Native](https://javascriptair.com/episodes/2016-10-26/)
 
-- Here's photo taken at El Matador beach in Malibu yesterday.  Stopped by on the way back to LA from the Strawberry Festival in Oxnard.  Reminded me how important it is to feel and experience nature once in a while.  
+- Here's a photo taken at El Matador beach in Malibu yesterday.  Stopped by on the way back to LA from the Strawberry Festival in Oxnard.  Reminded me how important it is to feel and experience nature once in a while.  
 
 ![elMatador](/images/elMatador.jpg)
 
