@@ -3,7 +3,7 @@ layout: post
 title: 6.1.2017 - Thursday - 
 ---
 
-This is my thirty-eigth blog post: 
+This is my thirty-eighth blog post: 
 
 ## Today I learned (#TIL):   
  
@@ -16,7 +16,7 @@ As a learner of JavaScript, I would be interested in having a feature that displ
 
 ## My next goals:
 
-- make a sketch for the user story
+- make a sketch for the user story based on Liz's feedback.  :)
 
 # Read-Search-Ask
 
