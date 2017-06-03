@@ -19,7 +19,7 @@ JavaScript libraries, frameworks, and plugins
 
 ## My next goals:
 
-- Revise use story flowcharts based on feedback. 
+- Revise user story flowcharts based on feedback.  Make two separate ones with more details. 
 
 
 # Read-Search-Ask
