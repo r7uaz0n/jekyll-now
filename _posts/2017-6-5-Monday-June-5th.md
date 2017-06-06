@@ -23,8 +23,8 @@ var rick = {
 
 - Part 2 of JS (un)bootcamp started.  We started whiteboarding the features and what the homepage of the pair-programmer finder app might look like.
 
-![whiteboard1](images/features_1.jpg)
-![whiteboard2](images/features_2.jpg)
+![whiteboard1](/images/features_1.jpg)
+![whiteboard2](/images/features_2.jpg)
 
 
 - After Saturday's first (un)bootcamp class, I felt the need to review some JS.  I started watching [Watch and Code](https://watchandcode.com) JS tutorials. 
