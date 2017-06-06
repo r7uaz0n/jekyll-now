@@ -7,6 +7,8 @@ This is my fortieth blog post:
 
 ## Today I learned (#TIL):   
 
+Lunchtime H/W posted on Slack by Liz:
+
 >*super quick HW assignment* to do on your next break today, I'll suggest this:
 >
 >:js: Create an object in JavaScript that represents yourself and lists as properties everything about yourself >that you would share on your user profile in our study partner matching app!
