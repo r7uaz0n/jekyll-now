@@ -13,13 +13,13 @@ This is my fortieth blog post:
 >
 
 ```
-	var rick = {
-		username: "r7uaz0n", 
-		city: "Los Angeles",
-		Programming language: "JavaScript"  
+var rick = {
+    username: "r7uaz0n", 
+    userid:  4,
+    city: "Los Angeles",
+    programmingLanguage: "JavaScript"  
 }
 ```
-
 
   
 - After Saturday's class I felt the need to review some JS.  I started watching [Watch and Code](https://watchandcode.com) JS tutorials. 
