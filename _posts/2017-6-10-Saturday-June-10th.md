@@ -15,7 +15,7 @@ This is my forty-first blog post:
 
 - Nice review on JS event listeners.
 
-- Wish I had been present for the For Loop review.  
+- Wish I had been present for the For Loop review but it was interesting working remotely.
 
 ## Questions:
 
