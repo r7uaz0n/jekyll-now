@@ -15,12 +15,14 @@ This is my forty-first blog post:
 
 - Nice review on JS event listeners.
 
+- Wish I had been present for the For Loop review.  
 
 ## Questions:
 
-- When I commit something in GitHub, is it necessary to do all three steps of git add, commit and push?
+- When I commit something in GitHub, is it necessary to do all three steps of git add, commit and push in command line?
 
--
+- What are some other practical purposes of using a database such as Firebase?
+
 
 ## Bugs discovered / what I got stuck on:
 
