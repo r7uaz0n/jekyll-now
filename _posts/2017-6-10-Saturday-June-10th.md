@@ -9,11 +9,11 @@ This is my forty-first blog post:
 
 - Unforntunately, I didn't get to much blogging this week though I did get started on assigned HW challenges setting up Firebase in Git.  I had a cousin passing through I needed to attend to.  
 
-- Sick today and unable to make it to class.  Worked remotely and finished working through HW 1 & 2 challenges and also received nice updates on Slack about what was happening in class today. Learned how to create and setup Firebase app and practiced displaying Firebase data on a webpage.  I hope I didn't miss out on too much from not being in class.  I find in-class time to be always valuable and it's always nice to see everyone in person as well.  Wish I had been present for the For Loop review but it was interesting working remotely.Looking forward to working with a mentor next week.
+- Sick today and unable to make it to class.  Worked remotely and finished working through HW 1 & 2 challenges and also received nice updates on Slack about what was happening in class today. Learned how to create and setup Firebase app and practiced displaying Firebase data on a webpage.  I hope I didn't miss out on too much from not being in class.  I find in-class time to be always valuable and it's always nice to see everyone in person as well.  Wish I had been present for the For Loop review but it was interesting working remotely.  Looking forward to working with a mentor next week.
 
 - I feel like I'm lacking on JS fluency by not actively practice coding in JS so I'm constantly relearning and going over things again. Having a project to work on is helpful.  
 
-- Nice review on JS event listeners.
+- Nice review on JS event listeners today.  Need to practice more!
 
 ## Questions:
 
