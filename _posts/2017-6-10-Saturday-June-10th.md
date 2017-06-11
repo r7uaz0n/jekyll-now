@@ -11,7 +11,7 @@ This is my forty-first blog post:
 
 - Sick today and unable to make it to class.  Worked remotely and finished working through HW 1 & 2 challenges along with updates about what was happening in class today. Learned how to create and setup Firebase app and practiced displaying Firebase data on a webpage.  I hope I didn't miss out on too much from not being in class.I find in-class time to be always valuable and it's always nice to see everyone in person as well.  
 
-- I feel like I'm lacking on JS fluency by not actively practice coding in JS so I'm constantly relearning and going over things again. Having a project to work on is help.  
+- I feel like I'm lacking on JS fluency by not actively practice coding in JS so I'm constantly relearning and going over things again. Having a project to work on is helpful.  
 
 - Nice review on JS event listeners.
 
