@@ -18,6 +18,11 @@ This is my forty-second blog post:
 
 - I'm at the Starbucks with painfully slow wifi.  I thought they might have improved it since last time I was here but apparently not.  I overheard that they are trying to get someone in fix it.  I certainly hope so!  
 
+- I was trying to change branches so I can do a commit but I created a branch in GitHub by mistake.  So I needed to delete the branch I made by mistake:
+
+> git branch -D <branch name>
+
+
 - I'm going to a soldering party tonight which is part of the Hackster hardware hacking Meetup I've been attending. We are soldering some custom designed PCB boards for Arduino shields for a project we are working on.  I haven't soldered in a while and never learned properly so I'm looking forward to learning some proper technique tonight. 
 
 
