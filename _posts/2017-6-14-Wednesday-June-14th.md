@@ -29,7 +29,7 @@ This is my forty-second blog post:
 ## My next goals:
 
 - Continue to work on _Add Login with GitHub feature using Firebase Authentication_ issue.
-- Work through Arrays and Ojects HW challenges
+- Work through Arrays and Objects HW challenges
 
 
 # Read-Search-Ask
