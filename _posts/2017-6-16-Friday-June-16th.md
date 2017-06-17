@@ -12,7 +12,7 @@ As I work on the HW challenges I notice each problem kind of builds on the previ
 
 - Didn't get very far with the Add Login with GitHub feature using Firebase Authentication_ issue as I was focused on the Arrays and Objects HW challenges. 
 
-- Need to keep better track and document of the things I'm learning along the way.
+- Need to keep better track and document the things I'm learning along the way.
 
 - Looking forward to class and working with the mentors tomorrow.  :)
 
