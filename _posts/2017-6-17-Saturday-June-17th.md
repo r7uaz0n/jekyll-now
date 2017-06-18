@@ -18,7 +18,7 @@ This is my forty-fifth blog post:
 ```arr[arr.length - 1]```
 ![notes1](/images/notes6172017b.jpg)
 
-A quick sketch visualizing the depth of properties of a JS object. 
+A quick sketch, or more like a scribble, visualizing the depth of properties of a JS object. 
 ![notes2](/images/notes6172017a.jpg)
 
 - I liked the activity when we all had to explain how to access the last element of an array.  I found it to be a kind of cognitive learning strategy for knowledge reinforcement.  Again, it was interesting to see everyone's different ways of explaining the concept.  I certainly learned from everyone.  I think we all benefited from it. 
