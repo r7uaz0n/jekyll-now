@@ -12,11 +12,12 @@ This is my forty-fifth blog post:
 - I was able to get through a lot of the review on arrays and objects HW practice.  I have one more section to finish before I continue on to work on Firebase issues which involves working on our collaborative prototype app.
 
 - Some notes from today:
+
 ```i++``` is same as ```i = i + 1```, same as ```i += 1```
 
-- I liked the activity when we all had to explain how to access the last element of an array.  I found it to be a kind of cognitive learning strategy for knowledge reinforcement.  I think we all benefited from it. 
-
 ```arr[arr.length -1]```
+
+- I liked the activity when we all had to explain how to access the last element of an array.  I found it to be a kind of cognitive learning strategy for knowledge reinforcement.  I think we all benefited from it. 
 
 
 ## Practice with JS objects and arrays Qs:
