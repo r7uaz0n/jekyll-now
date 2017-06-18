@@ -21,12 +21,12 @@ This is my forty-fifth blog post:
 
 ## Practice with JS objects and arrays Qs:
 
-1. What are arrays in JavaScript and why are they useful?
+1) What are arrays in JavaScript and why are they useful?
 
 Arrays store multiple values in a single variable. It is useful because it can hold more than one value at time. 
 
 
-2. What are objects in JavaScript and why are they useful?
+2) What are objects in JavaScript and why are they useful?
 
 Objects are variables in JavaScript that are containers for named values, called properties and methods.  They are useful because they allow us to group values, including other objects, together to build more complex structures.
 
@@ -35,7 +35,7 @@ https://www.sololearn.com/Play/JavaScript
 http://eloquentjavascript.net/04_data.html
 
 
-3. What are a couple of key differences between objects and arrays? (And can you find any good examples or metaphors that illustrate the difference?)
+3) What are a couple of key differences between objects and arrays? (And can you find any good examples or metaphors that illustrate the difference?)
 
 Values inside objects are accessed using properties/name/key.
 
@@ -57,12 +57,12 @@ var courses = new Array("HTML", "CSS", "JS");
 var course = courses[0]; // HTML
 ```
 
-4. What is the index of an array? What is it used for?
+4) What is the index of an array? What is it used for?
 
 The index is a number used to access a stored value in an array. 
 
 
-5. What is a property?
+5) What is a property?
 
 A property is the key value pairs associated with a JavaScript object.
 Properties can usually be changed, added, and deleted, but some are read only.
@@ -70,7 +70,7 @@ Properties can usually be changed, added, and deleted, but some are read only.
 https://www.w3schools.com/js/js_properties.asp
 
 
-6. What is a method?
+6) What is a method?
 
 A method is a function that is stored as an object property. 
 https://www.sololearn.com/Play/JavaScript
