@@ -15,7 +15,7 @@ This is my forty-fifth blog post:
 
 ```i++``` is same as ```i = i + 1```, same as ```i += 1```
 
-```arr[arr.length -1]```
+```arr[arr.length - 1]```
 
 ![notes1](/images/notes6172017b.jpg)
 ![notes2](/images/notes6172017a.jpg)
