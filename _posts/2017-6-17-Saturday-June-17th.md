@@ -17,6 +17,9 @@ This is my forty-fifth blog post:
 
 ```arr[arr.length -1]```
 
+![notes1](/images/notes6172017b.jpg)
+![notes2](/images/notes6172017a.jpg)
+
 - I liked the activity when we all had to explain how to access the last element of an array.  I found it to be a kind of cognitive learning strategy for knowledge reinforcement.  I think we all benefited from it. 
 
 
