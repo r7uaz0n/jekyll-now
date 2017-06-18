@@ -46,11 +46,13 @@ Values inside objects are accessed using properties/name/key.
 
 ```
 var person = {
- name: "John", age: 31, 
- favColor: "green", height: 183
+ name: "John", 
+ age: 31, 
+ favColor: "green", 
+ height: 183
 };
-var x = person.age;
-var y = person['age'];
+var x = person.age;  // dotted notation
+var y = person['age'];  // bracket notation
 ```
 
 Values inside arrays are accessed using an index.  Arrays are good for list of things in a certain order. 
