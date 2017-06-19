@@ -7,7 +7,7 @@ This is my forty-sixth blog post:
 
 ## Today I learned (#TIL):   
 
-- Finished the last HW review on _Objects inside arrays_.  Hopefully I will get some feedback if I got any of them wrong.  I enjoyed going through these review problems.  It really helped me gain a better understanding of working with arrys and objects.  I look forward to applying this knowledge in the Firebase app.  
+- Finished the last HW review on _Objects inside arrays_.  Hopefully I will get some feedback if I got any of them wrong.  I enjoyed going through these review problems.  It really helped me gain a better understanding of working with arrays and objects.  I look forward to applying this knowledge in the Firebase app.  
 
 Here is the set of review problems:
 
