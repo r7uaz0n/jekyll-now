@@ -26,6 +26,7 @@ Here is the set of review problems:
 
 - Continue to work on _Add Login with GitHub feature using Firebase Authentication_ issue.
 - Look at _up for grabs_ issues and select something to work on. 
+- Watch next section of Watch and Code JS video tutorials for review.
 
 # Read-Search-Ask
 
