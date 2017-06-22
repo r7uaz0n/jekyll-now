@@ -30,7 +30,7 @@ logoutButton.addEventListener("click", function (event) {
 var userInfoBox = document.getElementById("userinfo");
 ```
 
-I looked back at the issues and couldn't locate where I should have done this.  So I went ahead and just added to my firebasetest.js as well as added the appropriate HTML tag to my index.html file.
+I looked back at the issues and couldn't locate where I should have done this.  So I went ahead and just added to my firebasetest.js as well as added the appropriate HTML tags to my index.html file.
 
 
 ## My next goals:
