@@ -87,6 +87,7 @@ Example taken from class:
     * description
 
 > And here's a photo of the whiteboard, showing the same data model above:
+
 ![datamodelWB](/images/datamodelWB.jpg)
 
 > Example JSON-formatted code for the above data model, with ONE sample user (with a "userId" of "1") and TWO languages:
