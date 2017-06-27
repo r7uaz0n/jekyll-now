@@ -19,7 +19,7 @@ Here is the set of review problems:
 
 [Objects inside objects](https://repl.it/IlVr/8)
 
-[Objects inside arrays](https://repl.it/IlVy/20)
+[Objects inside arrays](https://repl.it/IlVy/31)  (updated with corrections)
 
 
 ## My next goals:
