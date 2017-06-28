@@ -11,6 +11,8 @@ This is my forty-ninth blog post:
 
 - Working on fCC _Profile Lookup_ challenge which I got stuck on:
 
+Incorrect code:
+
 ```
 
 //Setup
@@ -71,6 +73,7 @@ lookUpProfile("Akira", "likes");
 
 ## My next goals:
 
+- Solve above challenge
 - Continue to work on  _up for grabs_ issues. 
 - Watch next section of Watch and Code JS video tutorials for review.
 
