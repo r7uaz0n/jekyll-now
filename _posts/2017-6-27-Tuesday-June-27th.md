@@ -9,7 +9,7 @@ This is my forty-ninth blog post:
 
 - Now that the (un)bootcamp is finished I need to make an effort to continue practicing JS.  Glad to still have a project to work on.  I decided to go back to some fCC problems.  I feel determined to finish the fCC JavaScript challenges.  
 
-- Working on fCC _Profile Lookup_ challenge which I got stuck on:
+- Working on fCC [_Profile Lookup_ challenge](https://www.freecodecamp.com/challenges/profile-lookup) which I got stuck on:
 
 Incorrect code:
 
