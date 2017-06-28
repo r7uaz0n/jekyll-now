@@ -7,7 +7,7 @@ This is my forty-ninth blog post:
 
 ## Today I learned (#TIL):   
 
-- Now that the (un)bootcamp is finished I need to make an effort to continue practicing JS.  Glad to still have a project to work on.  I decided to go back to some fCC problems.  I really want to finish the fCC JavaScript challenges.  
+- Now that the (un)bootcamp is finished I need to make an effort to continue practicing JS.  Glad to still have a project to work on.  I decided to go back to some fCC problems.  I feel determined to finish the fCC JavaScript challenges.  
 
 - Working on fCC _Profile Lookup_ challenge which I got stuck on:
 
