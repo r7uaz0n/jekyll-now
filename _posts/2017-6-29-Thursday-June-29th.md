@@ -78,11 +78,12 @@ return "No such contact" ;
 lookUpProfile("Akira", "likes");
 ```
 
+- Now need to get back to working on the Firebase issues.
+
+
 ## Useful links:
 
 [thimble](https://thimble.mozilla.org/en-US/) - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript.
-
-- Now need to get back to working on the Firebase issues.
 
 
 ## My next goals:
