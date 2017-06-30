@@ -7,7 +7,7 @@ This is my fiftieth blog post:
 
 ## Today I learned (#TIL):   
 
-Attended GDI mentorship night and asked for help with the fCC challenge I was stuck on.  Solution the botton.
+- Attended GDI mentorship night and asked for help with the fCC challenge I was stuck on.  Solution below.
 
 Challenge:
 We have an array of objects representing different people in our contacts lists.
@@ -22,8 +22,7 @@ If ```firstName``` does not correspond to any contacts then return ```"No such c
 
 If ```prop``` does not correspond to any valid properties then return ```"No such property"```
 
-
-Correct code:
+Solution:
 
 ```
 javascript
