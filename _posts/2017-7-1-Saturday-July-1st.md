@@ -11,11 +11,9 @@ This is my fifty-first blog post:
 
 - Nice to attend the math study groups last night.  Did more chatting then actual math problems but it was nice to get some insight from more experienced coders.  Was reminded about the Project Euler website. 
 
-- Continued working in Firebase App.  I struggled understanding the issue I had assigned myself.  Decided to go back to review all the Firebase stuff we did for the (un)bootcamp.
+- Continued working on Firebase App.  I struggled understanding the issue I had assigned myself.  Decided to go back to review all the Firebase stuff we did for the (un)bootcamp.
 
 - Continued to work on fCC challenges.
-
-- Have Jury duty this week.  So far no reporting yet but need to check online status on Wednesday.
 
 ## Useful links:
 
