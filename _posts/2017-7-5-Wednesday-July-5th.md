@@ -57,7 +57,7 @@ Source:  [https://stackoverflow.com/questions/1527803/generating-random-whole-nu
 - I am still on-call for jury duty this week.  So far no reporting yet but need to check online status again tomorrow.
 
 
-## Links
+## Useful Links for later:
 
 [jsfeat](https://github.com/inspirit/jsfeat)  - JavaScript Computer Vision library
 
