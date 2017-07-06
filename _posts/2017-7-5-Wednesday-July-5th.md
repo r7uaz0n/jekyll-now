@@ -16,11 +16,13 @@ Math.floor rounds the floating point down.
 
 Example:
 
-> Q: Create a random whole number between 2 (inclusive, min) and 6 (inclusive, max) i.e. create a random whole number between min (inclusive) and max (inclusive)
+Q: Create a random whole number between 2 (inclusive, min) and 6 (inclusive, max) i.e. create a random whole number between min (inclusive) and max (inclusive)
 
-> A: 
+A: 
 
-```Math.floor(Math.random() * (6 - 2 + 1))```
+```
+Math.floor(Math.random() * (6 - 2 + 1))
+```
 
 Another interesting example:
 
