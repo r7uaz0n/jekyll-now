@@ -9,7 +9,7 @@ This is my fifty-third blog post:
 
 - Continued to work on fCC challenges.
 
-`Math.random()` and working with ranges is a little confusing.
+```Math.random()``` and working with ranges is a little confusing.
 But because it creates a floating point number, in order to get a whole number and include the max number we  + 1.  
 
 Math.floor rounds the floating point down.
@@ -18,34 +18,29 @@ Example:
 
 > Q: Create a random whole number between 2 (inclusive, min) and 6 (inclusive, max) i.e. create a random whole number between min (inclusive) and max (inclusive)
 
-> A: `Math.floor(Math.random() * (6 - 2 + 1))`
+> A: ```Math.floor(Math.random() * (6 - 2 + 1))```
 
 Another interesting example:
 
-`E.g. Math.floor(Math.random() * ((6 + 1) - 2)) + 2 = Math.floor(Math.random() * 5) + 2`
+E.g. ```Math.floor(Math.random() * ((6 + 1) - 2)) + 2 = Math.floor(Math.random() * 5) + 2```
 
 Source:  [https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-generate-random-whole-numbers-within-a-range/18187](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-generate-random-whole-numbers-within-a-range/18187)
 
 More useful examples:
 
+```
 // 0 - 10
-
-`Math.floor(Math.random() * 11);`
-
+Math.floor(Math.random() * 11);
 
 // 1 - 10
-
-`Math.floor(Math.random() * 10) + 1;`
-
+Math.floor(Math.random() * 10) + 1;
 
 // 5 - 20
-
-`Math.floor(Math.random() * 16) + 5;`
-
+Math.floor(Math.random() * 16) + 5;
 
 // -10 - (-2)
-
-`Math.floor(Math.random() * 9) - 10;`
+Math.floor(Math.random() * 9) - 10;
+```
 
 Source:  [https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range/1527820#1527820](https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range/1527820#1527820)
 
