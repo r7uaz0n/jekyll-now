@@ -28,7 +28,9 @@ Another interesting example:
 
 E.g. 
 
-```Math.floor(Math.random() * ((6 + 1) - 2)) + 2 = Math.floor(Math.random() * 5) + 2```
+```
+Math.floor(Math.random() * ((6 + 1) - 2)) + 2 = Math.floor(Math.random() * 5) + 2
+```
 
 Source:  [https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-generate-random-whole-numbers-within-a-range/18187](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-generate-random-whole-numbers-within-a-range/18187)
 
