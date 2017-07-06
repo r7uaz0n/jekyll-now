@@ -52,7 +52,7 @@ Math.floor(Math.random() * 9) - 10;
 
 Source:  [https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range/1527820#1527820](https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range/1527820#1527820)
 
-- I am FINALLY finished the freeCodeCamp Basic JavaScript tutorials.  There were a few problems that had me stuck that I put off for a while and needed to get help on.  I should go back to these problems and make sure I understand them.  Some of the include Nesting For Loops, Profile Lookup, Stand in Line, Counting Cards and some others.  I will need to check back on my blog posts which document the ones I got stuck on. :)
+- I am FINALLY finished the freeCodeCamp Basic JavaScript tutorials.  There were a few problems that had me stuck that I put off for a while and needed to get help on.  I should go back to these problems and make sure I understand them.  Some of them include Nesting For Loops, Profile Lookup, Stand in Line, Counting Cards and some others.  I will need to check back on my blog posts which document the ones I got stuck on. Now I should try to finish the Codecademy tutorials.  :)
 
 - I am still on-call for jury duty this week.  So far no reporting yet but need to check online status again tomorrow.
 
