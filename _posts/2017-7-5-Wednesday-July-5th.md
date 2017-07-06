@@ -18,11 +18,15 @@ Example:
 
 > Q: Create a random whole number between 2 (inclusive, min) and 6 (inclusive, max) i.e. create a random whole number between min (inclusive) and max (inclusive)
 
-> A: ```Math.floor(Math.random() * (6 - 2 + 1))```
+> A: 
+
+```Math.floor(Math.random() * (6 - 2 + 1))```
 
 Another interesting example:
 
-E.g. ```Math.floor(Math.random() * ((6 + 1) - 2)) + 2 = Math.floor(Math.random() * 5) + 2```
+E.g. 
+
+```Math.floor(Math.random() * ((6 + 1) - 2)) + 2 = Math.floor(Math.random() * 5) + 2```
 
 Source:  [https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-generate-random-whole-numbers-within-a-range/18187](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-generate-random-whole-numbers-within-a-range/18187)
 
