@@ -12,7 +12,6 @@ This is my fifty-second blog post:
 - Have Jury duty this week.  So far no reporting yet but need to check online status on Wednesday.
 
 
-
 ## My next goals:
 
 - Continue to work on fCC JS challenges.
@@ -25,10 +24,3 @@ This is my fifty-second blog post:
 # Read-Search-Ask
 
 # Perseverance is key!
-
-
-
-
-
-
-
