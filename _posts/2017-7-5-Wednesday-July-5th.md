@@ -63,6 +63,7 @@ Source:  [https://stackoverflow.com/questions/1527803/generating-random-whole-nu
 
 [Gibber](http://charlie-roberts.com/gibber/about-gibber/) - creative coding for JavaScript
 
+[clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
 
 ## My next goals:
 
