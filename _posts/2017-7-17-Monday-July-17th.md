@@ -18,18 +18,18 @@ This is my fifty-fourth blog post:
 
 A lot of the technology discussed was beyond the scope of my knowledge but it was interesting to learn more about IoT, its future and cloud computing. I am reminded of my interest in learning more about and working with hardware.
 
-[IoT1.jpg](/images/IoT1.jpg)
-[IoT2.jpg](/images/IoT2.jpg)
-[IoT3.jpg](/images/IoT3.jpg)
+![IoT1.jpg](/images/IoT1.jpg)
+![IoT2.jpg](/images/IoT2.jpg)
+![IoT3.jpg](/images/IoT3.jpg)
 
 - Checked out a tech happy hour Meetup at Upload which is new VR/AR community space.  Had play with some VR stuff like Google Tilt Brush which is pretty amazing.  There was also a nice presentation on how VR is being used for in science. 
 
 - Also attended AT&T Shape at Warner Bros Studios in Burbank last weekend.  A lot of VR exhibits and presentations related to new technology and digital storytelling.
 
-[attshape1.jpg](/images/attshape1.jpg)
-[attshape2.jpg](/images/attshape2.jpg)
-[attshape3.jpg](/images/attshape3.jpg)
-[attshape4.jpg](/images/attshape4.jpg)
+![attshape1.jpg](/images/attshape1.jpg)
+![attshape2.jpg](/images/attshape2.jpg)
+![attshape3.jpg](/images/attshape3.jpg)
+![attshape4.jpg](/images/attshape4.jpg)
 
 
 ## Useful Links for later:
