@@ -12,7 +12,8 @@ The bot looks for tweets with certain keywords and responds to those tweets auto
 
 I had attended a similar workshop in the past but Python was used.  It was good to use a language I was more familiar with. 
 
-- I'm a little busy for the next month preparing curriculum for a university class I'm teaching this coming Fall.  It's my first time teaching at a college level and it's not related to code.  Also practicing for the Nisei week parade in Little Tokyo next month.  I hoping to keep praticing JS and fluency through watching/doing tutorials, attending study groups and workshops.  Perhaps it would be a good time to start that local study group I have been contemplating about. 
+- I'm a little busy for the next month preparing curriculum for a university class I'm teaching this coming Fall.  It's my first time teaching at a college level and it's not related to code.  Also practicing for the Nisei week parade in Little Tokyo next month.  I hoping to keep praticing JS and fluency through watching/doing tutorials, attending study groups and workshops.  I purchased a JS Udemy course that was on sale based on a recommendation.  Perhaps that is something else to keep me going.  Maybe it would be a good time to start that local study group I have been contemplating about. 
+
 
 ## My next goals:
 
