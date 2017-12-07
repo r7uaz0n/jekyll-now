@@ -7,7 +7,7 @@ This is my fifty-eighth blog post:
 
 ## Today I learned (#TIL):   
 
-- LA is in fire. 
+- LA is on fire. 
 
 - It has been a while since my last blog post.  Not to say that I have stopped learning but have been more focused on my first semester of teaching at a university.  I have been attending various meetups from hardware hacking to creative coding.  I've expanded my network and made some new friends through these channels.  
 
