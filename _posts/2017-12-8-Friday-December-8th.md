@@ -9,7 +9,11 @@ This is my fifty-ninth blog post:
 
 - LA is still on fire. 
 
-- Need to brush up on my markdown syntax.  I remember being a bit more fluent when I was blogging more often while studying JS.
+- Had a virtual meeting w/ A in which he helped me with the ruby on rails project setup.
+
+- Attended the Hackaday Meetup.  I won a raffle prize which is a goodie bag from the super confererence.  I think I got a half-assed bag at the conference because they didn't prepare enough.  Winning this bag in the raffle last night made up for it.  :)
+
+- Need to brush up on my markdown syntax.  I remember being a bit more fluent back when I was blogging more often while studying JS.
 
 - Did some searching around on how to install dependencies related to rails.
 
