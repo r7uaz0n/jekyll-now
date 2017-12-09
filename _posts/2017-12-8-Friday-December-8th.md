@@ -3,7 +3,7 @@ layout: post
 title: 12.8.2017 - Friday - 
 ---
 
-This is my fifty-Ninth blog post: 
+This is my fifty-ninth blog post: 
 
 ## Today I learned (#TIL):   
 
